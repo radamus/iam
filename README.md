@@ -1,5 +1,5 @@
-Laboratorium Amazon Web Services
+ Amazon Web Services lab
 ==============================
 
-Laboratorium 4 - Simple Storage System S3
+cred.js - script for managing AWS user access keys (list, delete, create, rotate)
 --------------
